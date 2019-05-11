@@ -18,3 +18,6 @@ plt.xlabel('t')
 plt.legend()
 plt.savefig('output/convergence.png',bbox_inches='tight',pad_inches=0,
 	dpi=100,figsize=(1,1))
+
+
+:)
